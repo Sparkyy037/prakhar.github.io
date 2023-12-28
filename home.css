@@ -8,11 +8,14 @@
 .body{
     background-color: #0d1117;
 }
-.menu{
-    border: 2px solid red;
+.git{
+    
+    container-type: inline-size;
+    position:relative;left:60px;top: -19px;
+    width: 100px;
+    height: 10mm;
 }
 .Insta1{
-    border: 2px solid blue;
     container-type: inline-size;
     width: 100px;
     height: 10mm;
