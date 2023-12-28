@@ -9,5 +9,11 @@
     background-color: #0d1117;
 }
 .menu{
-    color: #e6edf3;
+    border: 2px solid red;
+}
+.Insta1{
+    border: 2px solid blue;
+    container-type: inline-size;
+    width: 100px;
+    height: 10mm;
 }
